@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00B8A9&height=200&section=header&text=Hamza%20Mazikaze&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20%E2%86%92%20Models%20%E2%86%92%20Products&descAlignY=58&descSize=18" width="100%" alt="Hamza Mazikaze — Data to Models to Products">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:FF3B4A&height=200&section=header&text=Hamza%20Mazikaze&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20%E2%86%92%20Models%20%E2%86%92%20Products&descAlignY=58&descSize=18" width="100%" alt="Hamza Mazikaze">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00B8A9&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineering+Student;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;LLMs+%26+RAG+%C2%B7+Python+%26+SQL;Building+Intelligent+Software+Solutions" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=FF3B4A&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineering+Student;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;LLMs+%26+RAG+%C2%B7+Python+%26+SQL;Building+Intelligent+Software+Solutions" alt="Typing SVG">
 
 <br>
 
@@ -11,14 +11,13 @@
 <a href="#the-pipeline">Pipeline</a> ·
 <a href="#featured-projects">Projects</a> ·
 <a href="#data-lab">Data Lab</a> ·
-<a href="#certifications">Certifications</a> ·
 <a href="#contact">Contact</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D1117?style=flat-square&logo=ai&logoColor=00B8A9">
-<img src="https://img.shields.io/badge/Location-Morocco-0D1117?style=flat-square&logo=googlemaps&logoColor=00B8A9">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-0D1117?style=flat-square&logo=github&logoColor=00B8A9">
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D1117?style=flat-square&logo=ai&logoColor=FF3B4A">
+<img src="https://img.shields.io/badge/Location-Morocco-0D1117?style=flat-square&logo=googlemaps&logoColor=FF3B4A">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-0D1117?style=flat-square&logo=github&logoColor=FF3B4A">
 
 </div>
 
@@ -56,9 +55,9 @@ I'm interested in the complete journey of building intelligent solutions: from u
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FF3B4A" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=FF3B4A" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=FF3B4A" alt="Matplotlib">
 
 </td>
 <td width="33%" valign="top">
@@ -69,15 +68,15 @@ I'm interested in the complete journey of building intelligent solutions: from u
 
 <br><br>
 
-`Machine Learning`
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF3B4A" alt="Machine Learning">
 
-`Deep Learning`
+<img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=flat-square&logo=pytorch&logoColor=FF3B4A" alt="Deep Learning">
 
-`Computer Vision`
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&logo=opencv&logoColor=FF3B4A" alt="Computer Vision">
 
-`NLP / LLMs`
+<img src="https://img.shields.io/badge/NLP%20%26%20LLMs-0D1117?style=flat-square&logo=huggingface&logoColor=FF3B4A" alt="NLP and LLMs">
 
-`RAG Architectures`
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=googlegemini&logoColor=FF3B4A" alt="RAG">
 
 </td>
 <td width="33%" valign="top">
@@ -92,8 +91,8 @@ I'm interested in the complete journey of building intelligent solutions: from u
 
 <br>
 
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter">
-<img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=FF3B4A" alt="Jupyter">
+<img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=FF3B4A" alt="Google Colab">
 
 </td>
 </tr>
@@ -116,7 +115,13 @@ An Android application designed to analyze fish box images using Computer Vision
 - Image visualization with detection results.
 - Local data storage and analysis history.
 
-**Technologies:** `Kotlin` `Android` `Computer Vision` `SAM` `MVVM` `Room` `Python`
+**Technologies**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,sqlite" alt="Kotlin, Android Studio, Python, SQLite">
+<img src="https://img.shields.io/badge/SAM-0D1117?style=flat-square&logoColor=FF3B4A" alt="SAM">
+<img src="https://img.shields.io/badge/MVVM-0D1117?style=flat-square&logoColor=FF3B4A" alt="MVVM">
+</div>
 
 ---
 
@@ -133,7 +138,14 @@ An intelligent automotive diagnostic platform designed to connect to ELM327-comp
 - Local diagnostic history.
 - Planned AI-powered diagnostic assistance using ML, LLMs and RAG.
 
-**Technologies:** `Kotlin` `Android` `Bluetooth` `OBD-II` `Machine Learning` `LLMs` `RAG`
+**Technologies**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,sqlite" alt="Kotlin, Android Studio, Python, SQLite">
+<img src="https://img.shields.io/badge/Bluetooth-0D1117?style=flat-square&logo=bluetooth&logoColor=FF3B4A" alt="Bluetooth">
+<img src="https://img.shields.io/badge/OBD--II-0D1117?style=flat-square&logoColor=FF3B4A" alt="OBD-II">
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=FF3B4A" alt="RAG">
+</div>
 
 ---
 
@@ -145,7 +157,11 @@ A digital platform concept connecting employees with local home cooks through co
 
 Built a working demonstration focused on simplifying group ordering, showcasing a different approach to workplace food delivery.
 
-**Technologies:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `AI`
+**Technologies**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" alt="Next.js, React, TypeScript, Tailwind CSS, Supabase">
+</div>
 
 ---
 
@@ -161,7 +177,10 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>Statistical analysis of demographic data from the 1994 Census, exploring education, employment and income.</sub>
 
-`Python` `Pandas`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FF3B4A" alt="Pandas">
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +189,10 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>Exploring relationships between cardiovascular disease, body measurements and lifestyle factors.</sub>
 
-`Python` `Pandas` `Visualization`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FF3B4A" alt="Pandas">
 
 </td>
 </tr>
@@ -181,7 +203,10 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>Analyzing historical global sea level changes and predicting future trends using linear regression.</sub>
 
-`Python` `Linear Regression`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF3B4A" alt="Scikit-learn">
 
 </td>
 <td width="50%" valign="top">
@@ -190,7 +215,10 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>Analyzing daily page views through line, bar and box plots.</sub>
 
-`Python` `Time Series` `Matplotlib`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=FF3B4A" alt="Matplotlib">
 
 </td>
 </tr>
@@ -201,7 +229,10 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>Computing statistical measures on a 3×3 matrix using NumPy.</sub>
 
-`Python` `NumPy`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=FF3B4A" alt="NumPy">
 
 </td>
 <td width="50%" valign="top">
@@ -210,29 +241,13 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <sub>A drive-in order management simulation using a custom linked-list implementation and FIFO processing.</sub>
 
-`Python` `Data Structures`
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
 
 </td>
 </tr>
 </table>
-
----
-
-## Certifications
-
-| Certification | Organization | Year |
-|:---|:---|:---:|
-| Data Analysis with Python | freeCodeCamp | 2026 |
-| AI Fluency Framework & Foundations | Anthropic | 2026 |
-| Claude 101 | Anthropic | 2026 |
-
----
-
-## Languages
-
-- 🇲🇦 Arabic — Native
-- 🇫🇷 French — Fluent
-- 🇬🇧 English — Professional
 
 ---
 
@@ -245,11 +260,11 @@ Hands-on projects developed during my Python Data Analysis training and programm
 <br>
 
 <a href="mailto:mazikazehamza@gmail.com">
-<img src="https://img.shields.io/badge/Email-mazikazehamza%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00B8A9" alt="Email">
+<img src="https://img.shields.io/badge/Email-mazikazehamza%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3B4A" alt="Email">
 </a>
 
 <a href="https://github.com/hamzamazikaze">
-<img src="https://img.shields.io/badge/GitHub-Hamza%20Mazikaze-0D1117?style=for-the-badge&logo=github&logoColor=00B8A9" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Hamza%20Mazikaze-0D1117?style=for-the-badge&logo=github&logoColor=FF3B4A" alt="GitHub">
 </a>
 
 <br><br>
@@ -258,6 +273,6 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00B8A9,100:0D1117&height=90&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF3B4A,100:0D1117&height=90&section=footer" width="100%" alt="Footer">
 
 </div>
