@@ -179,27 +179,26 @@ Built a working demonstration focused on simplifying group ordering, showcasing 
 <h3 align="left">🤖 Intelligence Artificielle & Data Science</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/scikitlearn/FF3B4A" height="42" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/pandas/FF3B4A" height="42" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/FF3B4A" height="42" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF3B4A" height="42" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/pytorch/FF3B4A" height="42" alt="PyTorch" />
-  <img src="https://cdn.simpleicons.org/opencv/FF3B4A" height="42" alt="OpenCV" />
-  <img src="https://cdn.simpleicons.org/huggingface/FF3B4A" height="42" alt="Hugging Face" />
-  <img src="https://cdn.simpleicons.org/qdrant/FF3B4A" height="42" alt="Qdrant" />
-  <img src="https://cdn.simpleicons.org/ollama/FF3B4A" height="42" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="42" alt="Qdrant" />
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="42" alt="Ollama" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Matplotlib-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-BERTopic-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-BGE--M3-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-XLM--RoBERTa-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-NLP-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-LLM-FF3B4A?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-RAG-FF3B4A?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BERTopic-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BGE--M3-0D9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XLM--RoBERTa-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
 </p>
-
 <!-- DEVELOPMENT & TOOLS -->
 <h3 align="left">🌐 Développement & Outils</h3>
 
