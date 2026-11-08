@@ -165,48 +165,50 @@ Built a working demonstration focused on simplifying group ordering, showcasing 
 </div>
 
 ---
-<!-- 🛠️ TECHNICAL STACK -->
-<h2 align="left">🛠️ Stack technique</h2>
+---
 
-<!-- LANGUAGES -->
+<!-- TECHNICAL STACK -->
+<h2 align="left" id="stack-technique">🛠️ Stack technique</h2>
+
 <h3 align="left">🧑‍💻 Langages</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,js,ts,html,css&theme=dark" />
-  <img src="https://img.shields.io/badge/-SQL-FF3B4A?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,js,ts,html,css&theme=dark" alt="Programming Languages">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-<!-- AI & DATA SCIENCE -->
 <h3 align="left">🤖 Intelligence Artificielle & Data Science</h3>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42" alt="OpenCV" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" />
-  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="42" alt="Qdrant" />
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="42" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas">
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy">
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch">
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42" alt="OpenCV">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face">
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="42" alt="Qdrant">
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="42" alt="Ollama">
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BERTopic-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BGE--M3-0D9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XLM--RoBERTa-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERTopic-6C5CE7?style=for-the-badge" alt="BERTopic">
+  <img src="https://img.shields.io/badge/BGE--M3-0D9488?style=for-the-badge" alt="BGE-M3">
+  <img src="https://img.shields.io/badge/XLM--RoBERTa-2563EB?style=for-the-badge" alt="XLM-RoBERTa">
+  <img src="https://img.shields.io/badge/NLP-E67E22?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/LLM-8B5CF6?style=for-the-badge" alt="LLM">
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="RAG">
 </p>
-<!-- DEVELOPMENT & TOOLS -->
+
 <h3 align="left">🌐 Développement & Outils</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,androidstudio,mysql,sqlite,supabase,docker,git,github,linux,vscode&theme=dark" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF3B4A" height="42" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,androidstudio,mysql,sqlite,supabase,docker,git,github,linux,vscode&theme=dark" alt="Development Tools">
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit">
 </p>
+
+---
 
 ---
 
