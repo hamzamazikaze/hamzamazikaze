@@ -10,6 +10,7 @@
 <a href="#about">About</a> ·
 <a href="#the-pipeline">Pipeline</a> ·
 <a href="#featured-projects">Projects</a> ·
+<a href="#stack-technique">Stack technique</a> ·
 <a href="#data-lab">Data Lab</a> ·
 <a href="#contact">Contact</a>
 
