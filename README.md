@@ -170,14 +170,14 @@ Built a working demonstration focused on simplifying group ordering, showcasing 
 <!-- TECHNICAL STACK -->
 <h2 align="left" id="stack-technique">🛠️ Stack technique</h2>
 
-<h3 align="left">🧑‍💻 Langages</h3>
+<h2 align="left">🧑‍💻 Langages</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,js,ts,html,css&theme=dark" alt="Programming Languages">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-<h3 align="left">🤖 Intelligence Artificielle & Data Science</h3>
+<h2 align="left">🤖 Intelligence Artificielle & Data Science</h2>
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn">
@@ -201,7 +201,7 @@ Built a working demonstration focused on simplifying group ordering, showcasing 
   <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="RAG">
 </p>
 
-<h3 align="left">🌐 Développement & Outils</h3>
+<h2 align="left">🌐 Développement & Outils</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,androidstudio,mysql,sqlite,supabase,docker,git,github,linux,vscode&theme=dark" alt="Development Tools">
