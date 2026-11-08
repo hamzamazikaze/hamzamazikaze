@@ -1,17 +1,24 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00B8A9&height=200&section=header&text=Hamza%20Mazikaze&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20%E2%86%92%20Models%20%E2%86%92%20Products&descAlignY=58&descSize=18" width="100%" alt="Hamza Mazikaze — Data → Models → Products">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00B8A9&height=200&section=header&text=Hamza%20Mazikaze&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20%E2%86%92%20Models%20%E2%86%92%20Products&descAlignY=58&descSize=18" width="100%" alt="Hamza Mazikaze — Data to Models to Products">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00B8A9&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineering+student;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;LLMs+%26+RAG+%C2%B7+Python+%26+SQL;Looking+for+a+technical+internship" alt="AI & Data Engineering student · Machine Learning · Computer Vision · NLP · LLMs & RAG · Looking for a technical internship">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00B8A9&center=true&vCenter=true&width=680&lines=AI+%26+Data+Engineering+Student;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;LLMs+%26+RAG+%C2%B7+Python+%26+SQL;Building+Intelligent+Software+Solutions" alt="Typing SVG">
+
+<br>
+
+<a href="#about">About</a> ·
+<a href="#the-pipeline">Pipeline</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#data-lab">Data Lab</a> ·
+<a href="#certifications">Certifications</a> ·
+<a href="#contact">Contact</a>
 
 <br><br>
 
-<a href="#about"><b>About</b></a> &nbsp;·&nbsp;
-<a href="#the-pipeline"><b>Pipeline</b></a> &nbsp;·&nbsp;
-<a href="#field-project"><b>Field project</b></a> &nbsp;·&nbsp;
-<a href="#data-lab"><b>Data lab</b></a> &nbsp;·&nbsp;
-<a href="#certifications"><b>Certifications</b></a> &nbsp;·&nbsp;
-<a href="#contact"><b>Contact</b></a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D1117?style=flat-square&logo=ai&logoColor=00B8A9">
+<img src="https://img.shields.io/badge/Location-Morocco-0D1117?style=flat-square&logo=googlemaps&logoColor=00B8A9">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-0D1117?style=flat-square&logo=github&logoColor=00B8A9">
 
 </div>
 
@@ -19,12 +26,17 @@
 
 ## About
 
-I'm an **Artificial Intelligence and Data Engineering student** at **ESTN** (École Supérieure de Technologie de Nador, Morocco). I like the full path from a messy dataset to something a person can actually use: clean the data, model it, then ship it as software.
+I'm an **Artificial Intelligence and Data Engineering student** at **ESTN — École Supérieure de Technologie de Nador, Morocco**.
 
-- 🐟 Built an **Android app for fish detection, segmentation, counting and length estimation** during my work with **INRH, Agadir**
-- 🧠 Studying **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs and RAG architectures**
-- 📊 Practising data analysis in **Python** (Pandas, NumPy, Matplotlib) on real datasets
-- 🎯 **Looking for a technical internship** where I can apply this on real business problems
+I'm interested in the complete journey of building intelligent solutions: from understanding and preparing data to developing machine learning models and turning them into practical software applications.
+
+- 🧠 Exploring **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs and RAG architectures**.
+- 📊 Working with **Python, Pandas, NumPy and SQL** for data analysis and processing.
+- 📱 Building software applications with **Kotlin, Android and modern development tools**.
+- 🐟 Worked on an AI-powered fish image analysis application in an academic project with **INRH, Agadir**.
+- 🚀 Interested in developing practical AI solutions that address real-world problems.
+
+**Currently looking for a technical internship** in Artificial Intelligence, Data Science, Data Engineering or Software Development.
 
 ---
 
@@ -34,34 +46,52 @@ I'm an **Artificial Intelligence and Data Engineering student** at **ESTN** (Éc
 <tr>
 <td width="33%" valign="top">
 
-**01 · Data**
+### 01 · Data
 
-<sub>Collect, clean, explore, visualise.</sub>
+<sub>Collect, clean, explore and visualize data.</sub>
 
-<img src="https://skillicons.dev/icons?i=py,mysql,sqlite" alt="Python, MySQL, SQLite"><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" alt="Python, MySQL, SQLite">
+
+<br>
+
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib">
 
 </td>
 <td width="33%" valign="top">
 
-**02 · Models**
+### 02 · Models
 
 <sub>Learn patterns, understand images and language.</sub>
 
-`Machine Learning` `Deep Learning`<br>
-`Computer Vision` `NLP`<br>
-`Large Language Models` `RAG`
+<br><br>
+
+`Machine Learning`
+
+`Deep Learning`
+
+`Computer Vision`
+
+`NLP / LLMs`
+
+`RAG Architectures`
 
 </td>
 <td width="33%" valign="top">
 
-**03 · Products**
+### 03 · Products
 
-<sub>Turn models into usable software.</sub>
+<sub>Transform ideas and models into usable software.</sub>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,linux,vscode" alt="Kotlin, Android Studio, Git, GitHub, Linux, VS Code"><br>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,vscode" alt="Kotlin, Android Studio, Git, GitHub, VS Code">
+
+<br>
+
 <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter">
 <img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab">
 
@@ -71,78 +101,116 @@ I'm an **Artificial Intelligence and Data Engineering student** at **ESTN** (Éc
 
 ---
 
-## Field project
+## Featured projects
 
-<table>
-<tr>
-<td valign="top">
+### 🐟 Fish Image Analysis — Android & Computer Vision
 
-**Fish detection & measurement — Android app**<br>
-<sub>INRH, Agadir · 2026</sub>
+<sub>INRH, Agadir · Academic Project · 2026</sub>
 
-An Android application that detects, segments and counts fish and estimates their length from images, combining **Computer Vision** with **data analysis in Python**.
+An Android application designed to analyze fish box images using Computer Vision and AI techniques.
 
-<sub><code>Android</code> <code>Kotlin</code> <code>Computer Vision</code> <code>SAM</code> <code>MVVM</code> <code>Room</code> <code>Python</code></sub>
+**Key functionalities:**
+- Fish detection and segmentation.
+- Automatic fish counting.
+- Individual fish length estimation.
+- Image visualization with detection results.
+- Local data storage and analysis history.
 
-</td>
-</tr>
-</table>
+**Technologies:** `Kotlin` `Android` `Computer Vision` `SAM` `MVVM` `Room` `Python`
 
-<!-- TODO: add a link here if you publish the source or a demo, e.g.
-<sub>🔗 <a href="https://github.com/hamzamazikaze/REPO-NAME">Source code</a></sub> -->
+---
+
+### 🚗 AutoSense AI — Intelligent Automotive Diagnostics
+
+<sub>Personal Project · In Development</sub>
+
+An intelligent automotive diagnostic platform designed to connect to ELM327-compatible OBD-II devices and help users understand vehicle data and diagnostic trouble codes.
+
+**Key functionalities:**
+- Bluetooth OBD-II connectivity.
+- Real-time vehicle data monitoring.
+- Diagnostic trouble code reading.
+- Local diagnostic history.
+- Planned AI-powered diagnostic assistance using ML, LLMs and RAG.
+
+**Technologies:** `Kotlin` `Android` `Bluetooth` `OBD-II` `Machine Learning` `LLMs` `RAG`
+
+---
+
+### 🍲 BENNA — Homemade Food, Delivered to Work
+
+<sub>Hack4Bladi · 2026 · 3rd Place</sub>
+
+A digital platform concept connecting employees with local home cooks through coordinated group orders within office buildings.
+
+Built a working demonstration focused on simplifying group ordering, showcasing a different approach to workplace food delivery.
+
+**Technologies:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `AI`
 
 ---
 
 ## Data lab
 
-Hands-on projects from my Python data analysis training, plus one data-structures exercise.
+Hands-on projects developed during my Python Data Analysis training and programming practice.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Demographic Data Analyzer](https://github.com/hamzamazikaze/demographic-data-analyzer)**<br>
-<sub>Answers statistical questions on population, education, work and income from 1994 Census data.</sub><br>
-<sub><code>Python</code> <code>Pandas</code></sub>
+**[Demographic Data Analyzer](https://github.com/hamzamazikaze/demographic-data-analyzer)**
+
+<sub>Statistical analysis of demographic data from the 1994 Census, exploring education, employment and income.</sub>
+
+`Python` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-**[Medical Data Visualizer](https://github.com/hamzamazikaze/Medical-Data-Visualizer)**<br>
-<sub>Explores how cardiovascular disease relates to body measurements and lifestyle factors.</sub><br>
-<sub><code>Python</code> <code>Data visualisation</code></sub>
+**[Medical Data Visualizer](https://github.com/hamzamazikaze/Medical-Data-Visualizer)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<sub>Exploring relationships between cardiovascular disease, body measurements and lifestyle factors.</sub>
 
-**[Sea Level Predictor](https://github.com/hamzamazikaze/sea-level-predictor)**<br>
-<sub>Visualises global sea level change since 1880 and projects it to 2050 with linear regression.</sub><br>
-<sub><code>Python</code> <code>Linear regression</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Page View Time Series Visualizer](https://github.com/hamzamazikaze/Page-View-Time-Series-Visualizer)**<br>
-<sub>Line, bar and box plots of daily forum page views from 2016 to 2019.</sub><br>
-<sub><code>Python</code> <code>Time series</code></sub>
+`Python` `Pandas` `Visualization`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Mean · Variance · Std Calculator](https://github.com/hamzamazikaze/Mean-Variance-Standard-Deviation-Calculator)**<br>
-<sub>A function that computes key statistics over a 3×3 matrix with NumPy.</sub><br>
-<sub><code>Python</code> <code>NumPy</code></sub>
+**[Sea Level Predictor](https://github.com/hamzamazikaze/sea-level-predictor)**
+
+<sub>Analyzing historical global sea level changes and predicting future trends using linear regression.</sub>
+
+`Python` `Linear Regression`
 
 </td>
 <td width="50%" valign="top">
 
-**[Drive-in Order Management](https://github.com/hamzamazikaze/drivein-gestion-des-Commandes)**<br>
-<sub>Simulates a drive-in with FIFO order handling on a custom linked-list implementation.</sub><br>
-<sub><code>Python</code> <code>Data structures</code></sub>
+**[Page View Time Series Visualizer](https://github.com/hamzamazikaze/Page-View-Time-Series-Visualizer)**
+
+<sub>Analyzing daily page views through line, bar and box plots.</sub>
+
+`Python` `Time Series` `Matplotlib`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Mean, Variance & Standard Deviation Calculator](https://github.com/hamzamazikaze/Mean-Variance-Standard-Deviation-Calculator)**
+
+<sub>Computing statistical measures on a 3×3 matrix using NumPy.</sub>
+
+`Python` `NumPy`
+
+</td>
+<td width="50%" valign="top">
+
+**[Drive-in Order Management](https://github.com/hamzamazikaze/drivein-gestion-des-Commandes)**
+
+<sub>A drive-in order management simulation using a custom linked-list implementation and FIFO processing.</sub>
+
+`Python` `Data Structures`
 
 </td>
 </tr>
@@ -152,13 +220,19 @@ Hands-on projects from my Python data analysis training, plus one data-structure
 
 ## Certifications
 
-| Year | Certification | Issuer |
-|:----:|---------------|--------|
-| 2026 | **Data Analysis with Python** | freeCodeCamp |
-| 2026 | **AI Fluency Framework & Foundations** | Anthropic |
-| 2026 | **Claude 101** | Anthropic |
+| Certification | Organization | Year |
+|:---|:---|:---:|
+| Data Analysis with Python | freeCodeCamp | 2026 |
+| AI Fluency Framework & Foundations | Anthropic | 2026 |
+| Claude 101 | Anthropic | 2026 |
 
-**Languages:** Arabic (native) · French (B1) · English (B2)
+---
+
+## Languages
+
+- 🇲🇦 Arabic — Native
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Professional
 
 ---
 
@@ -166,14 +240,24 @@ Hands-on projects from my Python data analysis training, plus one data-structure
 
 <div align="center">
 
-<a href="mailto:mazikazehamza@gmail.com"><img src="https://img.shields.io/badge/Email-mazikazehamza%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00B8A9" alt="Email"></a>
-<!-- TODO: add your LinkedIn URL, then uncomment:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Hamza%20Mazikaze-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B8A9" alt="LinkedIn"></a>
--->
-<img src="https://img.shields.io/badge/Nador%2C%20Morocco-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00B8A9" alt="Nador, Morocco">
+**Interested in AI, Data, Software Engineering or collaboration? Let's connect.**
+
+<br>
+
+<a href="mailto:mazikazehamza@gmail.com">
+<img src="https://img.shields.io/badge/Email-mazikazehamza%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00B8A9" alt="Email">
+</a>
+
+<a href="https://github.com/hamzamazikaze">
+<img src="https://img.shields.io/badge/GitHub-Hamza%20Mazikaze-0D1117?style=for-the-badge&logo=github&logoColor=00B8A9" alt="GitHub">
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00B8A9,100:0D1117&height=90&section=footer" width="100%" alt="">
+<sub>Based in Nador, Morocco · Open to learning, building and collaborating.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00B8A9,100:0D1117&height=90&section=footer" width="100%" alt="Footer">
 
 </div>
