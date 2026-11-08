@@ -253,25 +253,24 @@ Hands-on projects developed during my Python Data Analysis training and programm
 
 ## Contact
 
+
 <div align="center">
 
 **Interested in AI, Data, Software Engineering or collaboration? Let's connect.**
 
-<br>
+<br><br>
 
 <a href="mailto:mazikazehamza@gmail.com">
-<img src="https://img.shields.io/badge/Email-mazikazehamza%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3B4A" alt="Email">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/hamzamazikaze">
-<img src="https://img.shields.io/badge/GitHub-Hamza%20Mazikaze-0D1117?style=for-the-badge&logo=github&logoColor=FF3B4A" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" height="45" alt="GitHub">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hamza-mazikaze-07775a386/">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn">
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hamza-mazikaze-07775a386/"><b>linkedin.com/in/hamza-mazikaze</b></a>
 
 <br><br>
 
