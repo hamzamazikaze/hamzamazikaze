@@ -164,6 +164,44 @@ Built a working demonstration focused on simplifying group ordering, showcasing 
 </div>
 
 ---
+<!-- TECHNICAL STACK -->
+<h2 align="center">🛠️ Stack technique</h2>
+
+<h3 align="center">🧑‍💻 Langages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,kotlin,mysql,js,ts,html,css&theme=dark" />
+</p>
+
+<h3 align="center">🤖 Intelligence Artificielle & Data Science</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/pandas/FF3B4A" height="42" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/FF3B4A" height="42" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/huggingface/FF3B4A" height="42" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/qdrant/FF3B4A" height="42" alt="Qdrant" />
+  <img src="https://cdn.simpleicons.org/ollama/FF3B4A" height="42" alt="Ollama" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BERTopic-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+  <img src="https://img.shields.io/badge/BGE--M3-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+  <img src="https://img.shields.io/badge/XLM--RoBERTa-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+  <img src="https://img.shields.io/badge/LLM-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=FF3B4A" />
+</p>
+
+<h3 align="center">🌐 Développement & Outils</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,fastapi,androidstudio,mysql,sqlite,supabase,docker,git,github,linux,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/streamlit/FF3B4A" height="42" alt="Streamlit" />
+</p>
+
+---
 
 ## Data lab
 
